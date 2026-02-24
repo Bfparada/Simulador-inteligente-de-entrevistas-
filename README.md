@@ -1,6 +1,6 @@
 # Simulador-inteligente-de-entrevistas-
 Prompt utilizado para criação e entrevista feita pelo copilot com base nas informações repassadas 
-Perfeito, temos todas as informações:  
+
 
 - **Título da vaga:** Desenvolvedor Júnior C#  
 - **Senioridade:** Júnior  
